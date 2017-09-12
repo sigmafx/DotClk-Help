@@ -7,7 +7,7 @@ Welcome to the help file for the DotClk pinball animation clock.
 
 Figure 1 shows the DotClk board that controls the clock.
 
-![DotClk Board](/Images/dotclkboard.jpg)
+![DotClk Board](/Images/DotClkBoard.jpg)
 
 *Figure 1*
 
