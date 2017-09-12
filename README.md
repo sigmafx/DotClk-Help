@@ -32,27 +32,33 @@ Figure 1 shows the DotClk board that controls the clock.
 
 11. USB - Allows programming of the Teensy from a PC or MAC
 
-### Buttons
+## Buttons
 The buttons perform various functions at different stages whilst using the clock:
+
 **Boot Time**
+
+
 When the clock is switched on (boot time) the following button actions apply:
 * Button 1 held and released - Select display type '0'. Type is shown on screen
 * Button 2 held and released - Select display type '1'. Type is shown on screen
 * Button 4 held and released - Select display test mode. Press button 4 to exit.
 
 **Clock Mode**
+
 When the clock and animations are being shown:
 * Button 1 - Enter menu mode
 * Button 4 - Switch off the display. Press button 4 to switch on display.
 
 **Menu Mode**
+
 After pressing Button 1 in Clock Mode, Menu Mode will be selected:
 * Button 1 - Exit from Menu Mode or current menu setting. Current menu setting changes will not be saved
 * Button 2 - Move to previous menu item or adjust current menu setting
 * Button 3 - Move to next menu item or adjust current menu setting
 * Button 4 - Select menu item or save current menu setting
-
 During Menu Mode the screen shows the action of each button at the bottom of the screen.
+
+## Menu Mode
 
 Menu items allow setting of the following features:
 * Set Time
