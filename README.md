@@ -9,7 +9,7 @@ Figure 1 shows the DotClk board that controls the clock.
 
 ![DotClk Board](/Images/DotClkBoard.jpg)
 
-*Figure 1*
+*Figure 1 - DotClk Board*
 
 1. Button 1 - Menu / Back
 
@@ -32,6 +32,20 @@ Figure 1 shows the DotClk board that controls the clock.
 
 11. USB - Allows programming of the Teensy from a PC or MAC
 
+
+## Power Connection
+Connect the power supply to the DotClk board 'Power In', as shown in Figure 2.
+![Power Connection](/Images/PowerConnection.jpg)
+
+*Figure 2 - Power Connection*
+
+## Frame
+The frame supplied with DotClk can be mounted on a wall using the keyhole slot screw holes on the rear of the frame.
+
+The recommended screw type is 8 X 1.5" roundhead.
+
+The screws should be fitted level at 553mm centres.
+
 ## Buttons
 The buttons perform various functions at different stages whilst using the clock:
 
@@ -47,7 +61,7 @@ When the clock is switched on (boot time) the following button actions apply:
 
 When the clock and animations are being shown:
 * Button 1 - Enter menu mode
-* Button 4 - Switch off the display. Press button 4 to switch on display.
+* Button 4 - Switch off the display. Press button 4 to switch on the display.
 
 **Menu Mode**
 
@@ -73,3 +87,19 @@ Menu items allow setting of the following features:
 * Button Mapping - Swap the menu buttons around. Useful if the control board is mounted upside down
 * Show Brand - Choose to repeatedly show a selected animation called brand.scn. Use the Scene Editor tool to create a custom animation from GIFs
 * Debug - Shows the name of the scene file during playback, and also displays the duration of the previous animation
+
+## Animations & Fonts
+All animations and fonts are available for downaload. From time to time new animations or fonts will be created.
+
+You can find the files at the following location:
+[Fonts & Animations](https://github.com/sigmafx/DotClk-Resources)
+
+Instructions on downloading can be found on this page.
+
+## New Firmware
+New firmware may be made available to add new features or fix any defects.
+
+You can find the files at the following location:
+[Firmware](https://github.com/sigmafx/DotClk)
+
+Instructions on downloading can be found on this page.
