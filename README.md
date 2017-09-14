@@ -17,7 +17,7 @@ Figure 1 shows the DotClk board that controls the clock.
 
 3. Button 3 - Next / +
 
-4. Button 4 - Save
+4. Button 4 - Edit / Save
 
 5. Power In - 5v DC
 
@@ -46,7 +46,7 @@ The recommended screw type is 8 X 1.5" roundhead.
 
 The screws should be fitted level at 553mm centres.
 
-There is a hole to allow the power cable to pass from behond the frame - it is large enough to accept the cable including the bulky EMI collar.
+There is a hole to allow the power cable to pass from behind the frame - it is large enough to accept the cable including the bulky EMI collar.
 ## Buttons
 The buttons perform various functions at different stages whilst using the clock:
 
@@ -96,6 +96,11 @@ You can find the files at the following location:
 [DotClk Resources](https://github.com/sigmafx/DotClk-Resources)
 
 Instructions on downloading can be found on this page.
+
+It is also possible for anyone to create new animations and fonts. Applications to do this can be found at the following location:
+[DotClk Support](https://github.com/sigmafx/DotClk-Support)
+
+Instructions on using the applications can be found on this page.
 
 ## New Firmware
 New firmware may be made available to add new features or fix any defects.
