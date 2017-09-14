@@ -46,6 +46,7 @@ The recommended screw type is 8 X 1.5" roundhead.
 
 The screws should be fitted level at 553mm centres.
 
+There is a hole to allow the power cable to pass from behond the frame - it is large enough to accept the cable including the bulky EMI collar.
 ## Buttons
 The buttons perform various functions at different stages whilst using the clock:
 
@@ -76,8 +77,8 @@ During Menu Mode the screen shows the action of each button at the bottom of the
 ## Menu Mode
 
 Menu items allow setting of the following features:
-* Set Time
-* Daylight Saving Time - Add / sub an hour easily
+* Set Time - Set the hour and minutes. At the point of selecting Save the time is stored with seconds set to zero
+* Daylight Saving Time - Easily add / subtract an hour
 * Sleep Time - Set a time when the display should go off. If Sleep and Wake time are the same then the clock will stay on
 * Wake Time - Set a time when the display should come on. If Sleep and Wake time are the same then the clock will stay on
 * Brightness - Adjust the brightness of the dots
@@ -92,7 +93,7 @@ Menu items allow setting of the following features:
 All animations and fonts are available for downaload. From time to time new animations or fonts will be created.
 
 You can find the files at the following location:
-[Fonts & Animations](https://github.com/sigmafx/DotClk-Resources)
+[DotClk Resources](https://github.com/sigmafx/DotClk-Resources)
 
 Instructions on downloading can be found on this page.
 
@@ -100,6 +101,6 @@ Instructions on downloading can be found on this page.
 New firmware may be made available to add new features or fix any defects.
 
 You can find the files at the following location:
-[Firmware](https://github.com/sigmafx/DotClk)
+[DotClk Firmware](https://github.com/sigmafx/DotClk)
 
 Instructions on downloading can be found on this page.
