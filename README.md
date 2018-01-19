@@ -44,7 +44,9 @@ The frame supplied with DotClk can be mounted on a wall using the keyhole slot s
 
 The recommended screw type is 8 X 1.5" roundhead.
 
-The screws should be fitted level at 553mm centres.
+For frames supplied from 2018 onwards, the screws should be fitted level at 333mm centres.
+
+For frames supplied before 2018, the screws should be fitted level at 553mm centres.
 
 There is a hole to allow the power cable to pass from behind the frame - it is large enough to accept the cable including the bulky EMI collar.
 ## Buttons
