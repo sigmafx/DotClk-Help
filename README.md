@@ -131,7 +131,7 @@ To update the firmware you will need the Teensy Loader Program - please see this
 https://www.pjrc.com/teensy/loader.html
 N.B. You will only need the loader program - do not use the blink test files that are shown on this page.
 
-It will be necessary to connect a micro USB cable to the Teensy micro controller in the clock and use the Teensy Loader Program to open the file DotClk.ino.TEENSY35.hex. The firmware update should happen automatically, but it may also be necessary to force the Teensy to accept the firmware update by pressing the Program Switch, marked as item 12 in Figure 1.
+It will be necessary to connect a micro USB cable to the Teensy micro controller in the clock and use the Teensy Loader Program to open the file DotClk.ino.TEENSY35.hex. The firmware update should happen automatically, but it may also be necessary to force the Teensy to accept the firmware update by pressing the Program Switch, marked as item 12 in Figure 1 at the top of this page.
 
 3. You can now insert the SD Card into the Teensy, remove the USB cable and connect to the original power supply. If all is well you should see the clock start, showing a version of at least v1.10.
 
