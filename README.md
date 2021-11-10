@@ -117,14 +117,22 @@ Instructions on downloading can be found on this page.
 There has been an issue where the clock appears to stop working - the screen remains blank and it is necessary to turn off, then on to restart the clock, although once this has started happening the clock will show a blank screen again after a short while.
 
 This issue has now been fixed - if you are having this problem please follow these steps:
-1. Remove the SD card from the clock and delete all files on it. Copy over the Scenes and Fonts folders to the SD card by following the instructions here:
-https://github.com/sigmafx/DotClk-Resources
+1. Remove the SD card from the clock and delete all files on it. Download the following zip file:
+https://github.com/sigmafx/DotClk-Resources/archive/refs/heads/master.zip
 
-2. Update the firmware installed on the clock by using the latest DotClk.ino.TEENSY35.hex file. To do this follow the instructions here:
-https://github.com/sigmafx/DotClk#how-to-use-the-hex-file
+Copy the Scenes and Fonts folders to the SD card form the zip file.
 
-It will be necessary to connect a micro USB cable to the Teensy micro controller in the clock and use the Teensy loader application to select the hex file and upload to the board.
+2. Update the firmware installed on the clock by using the latest DotClk.ino.TEENSY35.hex file. Download the following zip file:
+https://github.com/sigmafx/DotClk/archive/refs/heads/master.zip
 
-N.B. It may be necessary to force the Teensy to accept the firmware update by pressing the Program Switch, marked as item 12 in Figure 1.
+You will need to access the file DotClk.ino.TEENSY35.hex in the zip file - copy the file to a location on your computer so you can access it later.
+
+To update the firmware you will need the Teensy Loader Program - please see this page to download the version for your computer:
+https://www.pjrc.com/teensy/loader.html
+N.B. You will only need the loader program - do not use the blink test files that are shown on this page.
+
+It will be necessary to connect a micro USB cable to the Teensy micro controller in the clock and use the Teensy Loader Program to open the file DotClk.ino.TEENSY35.hex. The firmware update should happen automatically, but it may also be necessary to force the Teensy to accept the firmware update by pressing the Program Switch, marked as item 12 in Figure 1.
+
+3. You can now insert the SD Card into the Teensy, remove the USB cable and connect to the original power supply. If all is well you should see the clock start, showing a version of at least v1.10.
 
 If you are having issues with this process please send an email to dotclk@drpinball.co.uk.
